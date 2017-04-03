@@ -12,7 +12,7 @@ import time
 consumer_key = 'consumer key'
 consumer_secret = 'consumer passowrd'
 access_token = 'access token'
-access_secret = 'access secret'
+access_secret = 'access secre'
  
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
